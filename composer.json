@@ -1,0 +1,15 @@
+{
+    "name": "Uploads List",
+    "description": "Shows Upload Details (percent complete, current speed, ...) in Navbar",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Jonathan Treffler"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}

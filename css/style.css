@@ -1,0 +1,10 @@
+.icon-uploadsmenu:hover{
+    opacity: 1 !important;
+}
+#uploadsmenu-menu{
+    width: 350px;
+}
+#uploadsmenu-menu > div{
+    overflow-y: scroll;
+    max-height: 330px;
+}
