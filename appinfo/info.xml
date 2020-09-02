@@ -7,10 +7,10 @@
     <description><![CDATA[By default, the Nextcloud upload progress bar only shows an estimated time to completion. This App adds a list , that show every upload seperatly, in the Navbar.]]></description>
     <version>1.0</version>
     <licence>agpl</licence>
-    <author mail="tessy.powder@gmail.com" homepage="https://github.com/TessyPowder">Jonathan Treffler</author>
+    <author mail="mail@jonathan-treffler.de" homepage="https://jonathan-treffler.de">Jonathan Treffler</author>
     <namespace>UploadsList</namespace>
     <category>tools</category>
-    <bugs>https://github.com/TessyPowder/Nextcloud-Uploads-List/issues</bugs>
+    <bugs>https://github.com/JonathanTreffler/Nextcloud-Uploads-List/issues</bugs>
     <dependencies>
         <nextcloud min-version="16" max-version="16"/>
     </dependencies>
